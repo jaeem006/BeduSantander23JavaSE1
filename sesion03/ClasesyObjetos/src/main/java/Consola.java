@@ -10,5 +10,6 @@ public class Consola {
         System.out.println("Escribe tu nombre:");
         String nombre = consola.readLine();
         System.out.println("¡Hola " + nombre + "!");
+
     }
 }

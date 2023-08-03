@@ -15,5 +15,6 @@ public class Letras {
         lector.muestraMensaje("Hay "+ numN + " Numeros");
         lector.muestraMensaje("Hay "+ numC + " Consonantes");
         lector.muestraMensaje("Hay "+ numS + " Simbolos");
+        
     }
 }
